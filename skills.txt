@@ -1,0 +1,9 @@
+Terminal Linux
+Git
+GitHub
+API
+HTTP/HTTPS
+Web testing
+Mobile testing
+SQL
+JMeter
